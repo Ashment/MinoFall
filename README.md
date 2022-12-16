@@ -2,6 +2,7 @@
 
 This is my entry for Ludum Dare 42 game jam. This is my second time participating in the jam, although it is my first time doing it alone.
 
+[Play the game here!](https://gundamme.itch.io/minofall)
 
 ## About the Game
 
